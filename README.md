@@ -23,8 +23,10 @@ Download [vector_utilities.h](https://raw.githubusercontent.com/Xorrad/vector-ut
 ---
 
 ## Examples
-\
-`displaying`
+
+<br>
+
+### displaying
 ```cpp
 std::vector<int> vec = { 1, 2, 3, 4 };
 std::cout << vec << std::endl;
@@ -34,8 +36,9 @@ output:
 vector<i>{ 1, 2, 3, 4 }
 ```
 
-\
-`concatenating`
+<br>
+
+### concatenating
 ```cpp
 std::vector<int> vec1 = { 1, 2, 3, 4 };
 std::vector<int> vec2 = { 1, 2 };
@@ -47,8 +50,9 @@ output:
 vector<i>{ 1, 2, 3, 4, 1, 2 }
 ```
 
-\
-`multiplication`
+<br>
+
+### multiplication
 ```cpp
 std::vector<int> vec1 = { 1 };
 vec1 *= 4;
@@ -59,8 +63,9 @@ output:
 vector<i>{ 1, 1, 1, 1 }
 ```
 
-\
-`comparing`
+<br>
+
+### comparing
 ```cpp
 std::vector<int> vec1 = { 1, 2 };
 std::vector<int> vec2 = { 1, 2 };
