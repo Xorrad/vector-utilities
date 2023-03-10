@@ -14,7 +14,7 @@
 
 ## Installation
 
-Download `vector_utilities.h` and add it to your project. Then include it using 
+Download [vector_utilities.h](https://raw.githubusercontent.com/Xorrad/vector-utilities/main/vector_utilities.h) and add it to your project. Then include it using 
 
 ```cpp
 #include "vector_utilities.h
